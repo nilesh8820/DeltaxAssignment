@@ -15,6 +15,10 @@ In Mernbackend => Add => addSong.html file for Adding new Song
 Mernbackend => Add => addArtist.html file for adding new Artist
 Mernbackend => Add => add.css common file for addSong.html and addArtist.html
 
+songs in file name'songs'
+icon of the song is in 'cover'
+and other images are in projrct
+
 Backend in file Model
 
 
