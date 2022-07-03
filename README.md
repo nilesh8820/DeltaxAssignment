@@ -15,6 +15,8 @@ In Mernbackend => Add => addSong.html file for Adding new Song
 Mernbackend => Add => addArtist.html file for adding new Artist
 Mernbackend => Add => add.css common file for addSong.html and addArtist.html
 
+Login page code in 'login.html' and 'login.css'
+
 songs in file name'songs'
 icon of the song is in 'cover'
 and other images are in projrct
@@ -23,8 +25,4 @@ Backend in file Model
 
 
 
-
-
-
-
-I didt completed the assignment properly due to some urgent work
+I didt completed the assignment properly due to some urgent work.
